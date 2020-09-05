@@ -25,6 +25,16 @@
 + Fira Code
 + Nerd Font Icons
 
+<a name="dependencies"></a>
+## Dependencies ##
+
+|Dependency|Description|
+|:----------:|:-------------:|
+|`bspwm`|Window manager|
+|`feh`|Fast image viewer used as wallpaper setting utility|
+|`picom`|Window compositor, eliminates screen tearing and allows for cool fade effects|
+|`rofi`|Application launcher|
+
 
 # <center>Screenshots</center>
 <p>
