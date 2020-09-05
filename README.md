@@ -4,4 +4,4 @@
 
 [![HitCount](http://hits.dwyl.com/yurywektorovich/dotfiles.svg)](http://hits.dwyl.com/yurywektorovich/dotfiles)
 
-![](./pictures/rice/_03.png)
+![](/pictures/rice/_03.png)
