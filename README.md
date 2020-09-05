@@ -5,17 +5,21 @@
 [![HitCount](http://hits.dwyl.com/yurywektorovich/dotfiles.svg)](http://hits.dwyl.com/yurywektorovich/dotfiles)
 
 ##### Setup:
-+ **OS**: manjaro
-+ **Shell**: zsh
++ **OS**: Manjaro
++ **Shell**: Zsh
++ **WM**: bspwm
 + **Terminal:** urxvt
-+ **Notification:** dunst
-+ **Powermenu:** rofi
-+ **File Manager**: thunar
-+ **Bar:** polybar (limepanel)
-+ **Spotify theme:** 
-+ **Browser:** vivaldi
-+ **Editor**: vscode
-+ **Color Scheme**: palenight
++ **Notification:** Dunst
++ **Powermenu:** Rofi
++ **File Manager**: Thunar
++ **Bar:** Polybar (limepanel)
++ **Browser:** Vivaldi
++ **Editor**: VScode
++ **Color Scheme**: Palenight
++ **GTK3 Theme**: Juno
++ **Icons**: OieOxy
++ **Cursor**: Breeze Hacked
+
 
 # <center>Screenshots</center>
 <p>
