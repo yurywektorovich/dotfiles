@@ -20,6 +20,11 @@
 + **Icons**: OieOxy
 + **Cursor**: Breeze Hacked
 
+### Fonts
+
++ Fira Code
++ Nerd Font Icons
+
 
 # <center>Screenshots</center>
 <p>
