@@ -4,13 +4,15 @@
 
 [![HitCount](http://hits.dwyl.com/yurywektorovich/dotfiles.svg)](http://hits.dwyl.com/yurywektorovich/dotfiles)
 
-## Contents ##
+### Contents 
 1. [Setup](#setup)
-2. [Dependencies](#dependencies)
-3. [Application Theming](#appTheming)
+2. [Fonts](#fonts)
+3. [Dependencies](#dependencies)
+4. [Screenshots](#screenshots)
+5. [Application Theming](#appTheming)
 
 <a name="setup"></a>
-### Setup
+#### Setup
 + **OS**: Manjaro
 + **Shell**: Zsh
 + **WM**: bspwm
@@ -26,13 +28,14 @@
 + **Icons**: OieOxy
 + **Cursor**: Breeze Hacked
 
-### Fonts
+<a name="fonts"></a>
+#### Fonts
 
 + Fira Code
 + Nerd Font Icons
 
 <a name="dependencies"></a>
-### Dependencies 
+#### Dependencies 
 
 |Dependency|Description|
 |:----------:|:-------------:|
@@ -42,6 +45,8 @@
 |`rofi`|Application launcher|
 
 
+<a name="screenshots"></a>
+
 # <center>Screenshots</center>
 <p>
   <img width="80%" src="https://github.com/yurywektorovich/dotfiles/blob/master/pictures/rice/_01.png?raw=true" />
@@ -50,9 +55,9 @@
 </p>
 
 <a name="appTheming"></a>
-### Application Theming 
+#### Application Theming 
 
-### Spotify 
+#### Spotify 
 1. [Install `Spicetify`](https://github.com/khanhas/spicetify-cli)
 2. chown spotify directory: `sudo chown $USER -R /opt/spotify`
 3. run `spicetify` once to generate config
