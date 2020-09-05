@@ -7,13 +7,13 @@
 ##### Setup:
 + **OS**: manjaro
 + **Shell**: zsh
-* **Terminal:** urxvt
-* **Notification:** dunst
-* **Powermenu:** rofi
++ **Terminal:** urxvt
++ **Notification:** dunst
++ **Powermenu:** rofi
 + **File Manager**: thunar
-* **Bar:** polybar (limepanel)
-* **Spotify theme:** [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish)
-* **Browser:** vivaldi
++ **Bar:** polybar (limepanel)
++ **Spotify theme:** 
++ **Browser:** vivaldi
 + **Editor**: vscode
 + **Color Scheme**: palenight
 
