@@ -4,6 +4,12 @@
 
 [![HitCount](http://hits.dwyl.com/yurywektorovich/dotfiles.svg)](http://hits.dwyl.com/yurywektorovich/dotfiles)
 
+## Contents ##
+1. [Setup](#setup)
+2. [Dependencies](#dependencies)
+3. [Application Theming](#appTheming)
+
+<a name="setup"></a>
 ##### Setup:
 + **OS**: Manjaro
 + **Shell**: Zsh
