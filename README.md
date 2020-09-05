@@ -10,7 +10,7 @@
 3. [Application Theming](#appTheming)
 
 <a name="setup"></a>
-##### Setup:
+### Setup:
 + **OS**: Manjaro
 + **Shell**: Zsh
 + **WM**: bspwm
