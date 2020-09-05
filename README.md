@@ -12,7 +12,7 @@
 5. [Application Theming](#appTheming)
 
 <a name="setup"></a>
-#### Setup
+### Setup
 + **OS**: Manjaro
 + **Shell**: Zsh
 + **WM**: bspwm
@@ -35,7 +35,7 @@
 + Nerd Font Icons
 
 <a name="dependencies"></a>
-#### Dependencies 
+### Dependencies 
 
 |Dependency|Description|
 |:----------:|:-------------:|
@@ -47,7 +47,7 @@
 
 <a name="screenshots"></a>
 
-# <center>Screenshots</center>
+### <center>Screenshots</center>
 <p>
   <img width="80%" src="https://github.com/yurywektorovich/dotfiles/blob/master/pictures/rice/_01.png?raw=true" />
   <img width="80%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_02.png" />
@@ -55,7 +55,7 @@
 </p>
 
 <a name="appTheming"></a>
-#### Application Theming 
+### Application Theming 
 
 #### Spotify 
 1. [Install `Spicetify`](https://github.com/khanhas/spicetify-cli)
