@@ -10,7 +10,7 @@
 3. [Application Theming](#appTheming)
 
 <a name="setup"></a>
-### Setup:
+### Setup
 + **OS**: Manjaro
 + **Shell**: Zsh
 + **WM**: bspwm
@@ -32,7 +32,7 @@
 + Nerd Font Icons
 
 <a name="dependencies"></a>
-## Dependencies ##
+### Dependencies 
 
 |Dependency|Description|
 |:----------:|:-------------:|
@@ -50,9 +50,9 @@
 </p>
 
 <a name="appTheming"></a>
-## Application Theming ##
+### Application Theming 
 
-### Spotify ###
+### Spotify 
 1. [Install `Spicetify`](https://github.com/khanhas/spicetify-cli)
 2. chown spotify directory: `sudo chown $USER -R /opt/spotify`
 3. run `spicetify` once to generate config
