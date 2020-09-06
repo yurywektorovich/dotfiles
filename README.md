@@ -4,7 +4,8 @@
 
 [![HitCount](http://hits.dwyl.com/yurywektorovich/dotfiles.svg)](http://hits.dwyl.com/yurywektorovich/dotfiles)
 
-### Contents 
+### Contents
+
 1. [Setup](#setup)
 2. [Fonts](#fonts)
 3. [Dependencies](#dependencies)
@@ -12,42 +13,46 @@
 5. [Application Theming](#appTheming)
 
 <a name="setup"></a>
+
 ### Setup
-+ **OS**: Manjaro
-+ **Shell**: Zsh
-+ **WM**: bspwm
-+ **Terminal:** urxvt
-+ **Notification:** Dunst
-+ **Powermenu:** Rofi
-+ **File Manager**: Thunar
-+ **Bar:** Polybar (limepanel)
-+ **Browser:** Vivaldi
-+ **Editor**: VScode
-+ **Color Scheme**: Palenight
-+ **GTK3 Theme**: Juno
-+ **Icons**: OieOxy
-+ **Cursor**: Breeze Hacked
+
+- **OS**: Manjaro
+- **Shell**: Zsh
+- **WM**: bspwm
+- **Terminal:** urxvt
+- **Notification:** Dunst
+- **Powermenu:** Rofi
+- **File Manager**: Thunar
+- **Bar:** Polybar (limepanel)
+- **Browser:** Vivaldi
+- **Editor**: VScode
+- **Color Scheme**: Palenight
+- **GTK3 Theme**: Juno
+- **Icons**: OieOxy
+- **Cursor**: Breeze Hacked
 
 <a name="fonts"></a>
+
 #### Fonts
 
-+ Fira Code
-+ Nerd Font Icons
+- Fira Code
+- Nerd Font Icons
 
 <a name="dependencies"></a>
-### Dependencies 
 
-|Dependency|Description|
-|:----------:|:-------------:|
-|`bspwm`|Window manager|
-|`feh`|Fast image viewer used as wallpaper setting utility|
-|`picom`|Window compositor, eliminates screen tearing and allows for cool fade effects|
-|`rofi`|Application launcher|
+### Dependencies
 
+| Dependency |                                  Description                                  |
+| :--------: | :---------------------------------------------------------------------------: |
+|  `bspwm`   |                                Window manager                                 |
+|   `feh`    |              Fast image viewer used as wallpaper setting utility              |
+|  `picom`   | Window compositor, eliminates screen tearing and allows for cool fade effects |
+|   `rofi`   |                             Application launcher                              |
 
 <a name="screenshots"></a>
 
 ### <center>Screenshots</center>
+
 <p>
   <img width="83%" src="https://github.com/yurywektorovich/dotfiles/blob/master/pictures/rice/_01.png?raw=true" />
   <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_02.png" />
@@ -55,9 +60,11 @@
 </p>
 
 <a name="appTheming"></a>
-### Application Theming 
 
-#### Spotify 
+### Application Theming
+
+#### Spotify
+
 1. [Install `Spicetify`](https://github.com/khanhas/spicetify-cli)
 2. chown spotify directory: `sudo chown $USER -R /opt/spotify`
 3. run `spicetify` once to generate config
