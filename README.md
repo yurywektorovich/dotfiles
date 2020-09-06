@@ -54,9 +54,9 @@
 ### <center>Screenshots</center>
 
 <p>
-  <img width="83%" src="https://github.com/yurywektorovich/dotfiles/blob/master/pictures/rice/_01.png?raw=true" />
-  <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_02.png" />
-  <img width="83%" src="https://github.com/yurywektorovich/dotfiles/blob/master/pictures/rice/_03.png?raw=true" />
+  <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_001.png" />
+  <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_002.png" />
+  <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_003.png" />
 </p>
 
 <a name="appTheming"></a>
