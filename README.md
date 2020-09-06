@@ -57,6 +57,7 @@
   <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_001.png" />
   <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_002.png" />
   <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_003.png" />
+  <img width="83%" src="https://raw.githubusercontent.com/yurywektorovich/dotfiles/master/pictures/rice/_004.png" />
 </p>
 
 <a name="appTheming"></a>
