@@ -1,5 +1,4 @@
-! Base16 Eighties
-! Scheme: Chris Kempson (http://chriskempson.com)
+# 
 
 *.foreground:   #C0C0C0
 #ifdef background_opacity
